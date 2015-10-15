@@ -1,1 +1,5 @@
-The term of "comfortablely uncomfortable" is an under-statement at this point for me. 
+The term of "comfortablely uncomfortable" is an under-statement at this point for me. This experience so far is teaching and making me to become a detective. Although I don't have the background of any computer programing, but I do have the interest to learn and find out how things work in terms of iOS development.
+
+Programing have different lanugages, therefor I am learning another lanugage just in a different form. So far, it is much harder than speaking Chinese! But thinking back how I learned Chinese and English was to enmurse myself in the enviroment, and go along with the conversations while trying to communicate. One day words I didn't understand just clicked, connect and make sense! But in TIY enviroment, there's only 12 weeks for you to be fluent enought and go out there and make it on your own. 
+
+There have bene so many difficulties in the past several days; other than the intense learning, time managment....etc, we also put a good amount of pressure on ourselves to see this through. I know TIY is going to be a special part of my life journey.
