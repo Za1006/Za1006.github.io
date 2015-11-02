@@ -1,0 +1,20 @@
+Journal Week 3 - Tutorial 
+
+How to Connect An IBOutlet to an UIView?
+
+"The IB in IBOulet stands for Interface Builder; there are different attributes such as IBAction, and IBInspectable. These declarations are used to synchronize with Xcode. You connect the attributes to property declaration of a class." - The Swift Programming Language(Swift 2.1)
+
+To start:
+1. First chose Create New Xcode Project.
+2. Create a Single View Project and click "next", then give your file a name and safe it somewhere that you will remembered. Click "next".
+3. To the left hand side of the screen you will see the file that you've just created showing: viewController.swift, and Main.Storyboard. "viewController.swift" will be your UIView that you will be connecting the IBOutlet with the storyboard.
+4. Click on Main.storyboard, you should see a viewController. On top of the viewController there are three icons, click on the left yellow icon and you will be the "inspector" panel to the right of the view controller.
+5. Down the very bottom of the inspector shows a "filter" search bar. In there, you can search for label, textField, tableView...etc. Let's use the example of a label by type in the word "label"
+6. drag in the label shown as (image 1) into the viewController.
+7. Let's say you've already set the constrains of the label.... You will find as shown in (image 2) click on the icon with the two circles call the "assistance editor". The viewController.swift file show appear.
+8. "control" click and drag on the label you've made in the storyboard to the view controller where you will see an outline states "insert Outlet or Outlet Collection".
+9. Then it will prompt you with a popup window with it's attributes: Connection, Object, Name, Type, and Storage. It should automatically set connection as "Outlet", go ahead and name the label and you're done!
+
+To learn more about Xcode and Swift, please go to: https://developer.apple.com/library/ios/navigation/ 
+and 
+https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0
