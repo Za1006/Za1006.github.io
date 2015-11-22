@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journal Week 1
+title: Journal Week-1
 ---
 The term of "comfortably uncomfortable" is an under-statement at this point for me. This experience so far has taught and made me to become a detective, not a very good one so far, but working on it. Although I don't have the background of any computer programing, but I do have the interest to learn and find out how things work in terms of iOS development and technology in general.
 
